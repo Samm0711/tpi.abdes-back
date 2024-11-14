@@ -2,3 +2,7 @@ Docente: samue Romero
 Espacio Curricular: educacion fisica
 Curso: 4 - División: 4
 
+Docente: samue Romero
+Espacio Curricular: ingles
+Curso: 5 - División: 1
+
